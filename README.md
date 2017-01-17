@@ -14,3 +14,12 @@ A project intended to log random informative articles/ codes/ programming practi
 - [Road to learn React](https://leanpub.com/the-road-to-learn-react)
 - [LoopBack vs Express JS](https://da-14.com/blog/why-loopback-better-expressjs)
 - [Loop, bind, apply](http://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
+
+### January 16, 2017
+
+- [Clean-code-JS](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
+- [SOLID JavaScript](http://aspiringcraftsman.com/2011/12/08/solid-javascript-single-responsibility-principle/)
+
+### January 17, 2017
+- [Successful git branching](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Object.assign()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
