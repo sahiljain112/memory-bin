@@ -23,3 +23,10 @@ A project intended to log random informative articles/ codes/ programming practi
 ### January 17, 2017
 - [Successful git branching](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Object.assign()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+
+### January 18, 2017
+
+- [JS and DOM](http://eloquentjavascript.net/13_dom.html)
+- [Event Delegation](https://davidwalsh.name/event-delegate)
+- [Event Capturing and bubbling](https://www.kirupa.com/html5/event_capturing_bubbling_javascript.htm)
+- [Mixins vs Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.t3loohac3)
