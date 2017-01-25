@@ -30,3 +30,15 @@ A project intended to log random informative articles/ codes/ programming practi
 - [Event Delegation](https://davidwalsh.name/event-delegate)
 - [Event Capturing and bubbling](https://www.kirupa.com/html5/event_capturing_bubbling_javascript.htm)
 - [Mixins vs Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.t3loohac3)
+
+### January 24, 2017
+
+- [Productivity](https://medium.com/the-mission/if-you-do-these-things-every-day-youll-become-smarter-a19ae21bdfcb#.d51p1du5z)
+- [The fraudulent coder](https://shakycode.com/the-story-of-the-fraudulent-coder-d4c6fcf273f7#.8omdsjrtm)
+- [Composition vs Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+
+### January 25, 2017
+
+- [Immediately invoked function expression](http://www.benalman.com/news/2010/11/immediately-invoked-function-expression/)
+- [Choice Minimalism](http://marketmeditations.com/choice-minimalism/)
+- [JS interview questions](https://medium.freecodecamp.com/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb#.k656v8fvr)
